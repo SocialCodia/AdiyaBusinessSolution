@@ -1,0 +1,30 @@
+[
+    {
+        "id": "61a1b9fe5a47d0553647c868",
+        "name": "Basic Service",
+        "time": "4 Hrs Taken",
+        "warranty": {
+            "duration": "30",
+            "type": "days",
+            "note": " 1000 Kms or I Month Warranty",
+        },
+        "???????": "Every 5000 Kms or 3 Months",
+        "recommended": true,
+        "included": [
+            "Engine Oil Replacement",
+            "Oil Filter Replacement",
+            "Air Filter Cleaning"
+        ]
+    },
+    {
+        "userId": "61a1b9fe5a47d0553647c868",
+        "manufacturerId": "61a1b9fe5a47d0553647c868",
+        "modelId": "61a1b9fe5a47d0553647c868",
+        "fuleTypeId": "61a1b9fe5a47d0553647c868",
+        "yearId": "61a1b9fe5a47d0553647c868",
+        "mileageId": "61a1b9fe5a47d0553647c868",
+        "categoryId": "61a1b9fe5a47d0553647c868",
+        "packageId": "61a1b9fe5a47d0553647c868",
+        "garageId": "61a1b9fe5a47d0553647c868",
+    }
+]
